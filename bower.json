@@ -1,0 +1,17 @@
+{
+  "name": "chatey",
+  "description": "",
+  "main": "",
+  "authors": [
+    "eylemyildiz <eylemyldz89@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatey",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/eylemyildiz/chatey",
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
